@@ -147,10 +147,6 @@ if __name__ == "__main__":
             print (".....")
             webbrowser.open("twitter.com")
             continue
-         elif 'what the f***' in query:
-                   
-            speak("dont make me angry or i will fuck u")
-            continue
 
 
             #to do anything on facebook
