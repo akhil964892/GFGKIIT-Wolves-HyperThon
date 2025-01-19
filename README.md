@@ -108,10 +108,3 @@ You can customize the following:
 This project was developed as part of the Hyperthon event hosted by GFG KIIT.
 
 ---
-
-## **Disclaimer**
-This application is for personal use and educational purposes only. Make sure to keep your email credentials secure and avoid sharing them in the code.
-
----
-
-Let me know if you need any changes or enhancements!
